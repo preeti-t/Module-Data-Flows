@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+
+button {
+  padding: 10px 15px;
+  font-size: 14px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+#comicContainer {
+  margin-top: 20px;
+}
+
+#comicImg {
+  max-width: 100%;
+  border: 1px solid #ccc;
+  background: white;
+}
